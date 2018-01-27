@@ -1,7 +1,10 @@
 # python3
 
 import unittest
+<<<<<<< HEAD
 from collections import deque
+=======
+>>>>>>> 90ce406751a4d87b2ce23e10ce6f6a66b7e470ee
 
 class Request:
     def __init__(self, arrival_time, process_time):

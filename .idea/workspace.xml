@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="83dbd8aa-ae1e-4102-9418-0a30708bc730" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 2/job_queue/job_queue.py" afterPath="$PROJECT_DIR$/week 2/job_queue/job_queue.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 2/job_queue/tests/02" afterPath="$PROJECT_DIR$/week 2/job_queue/tests/02" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 2/make_heap/build_heap.cpp" afterPath="$PROJECT_DIR$/week 2/make_heap/build_heap.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 2/make_heap/build_heap.py" afterPath="$PROJECT_DIR$/week 2/make_heap/build_heap.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 2/merging_tables/merging_tables.py" afterPath="$PROJECT_DIR$/week 2/merging_tables/merging_tables.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,28 +13,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="merging_tables.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week 2/merging_tables/merging_tables.py">
+      <file leaf-file-name="tree-orders.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week 6/tree_orders/tree-orders.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="46" column="15" lean-forward="false" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+            <state relative-caret-position="731">
+              <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="116" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week 2/merging_tables/tests/116">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39657" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="116.a" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week 2/merging_tables/tests/116.a">
+      <file leaf-file-name="21" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week 6/tree_orders/tests/21">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -84,6 +69,11 @@
         <option value="$PROJECT_DIR$/week 2/job_queue/tests/08.a" />
         <option value="$PROJECT_DIR$/week 2/job_queue/job_queue.py" />
         <option value="$PROJECT_DIR$/week 2/merging_tables/merging_tables.py" />
+        <option value="$PROJECT_DIR$/week 4/phone_book/phone_book.py" />
+        <option value="$PROJECT_DIR$/week 4/hash_chains/hash_chains.py" />
+        <option value="$PROJECT_DIR$/week 4/hash_substring/tests/06" />
+        <option value="$PROJECT_DIR$/week 4/hash_substring/hash_substring.py" />
+        <option value="$PROJECT_DIR$/week 6/tree_orders/tree-orders.py" />
       </list>
     </option>
   </component>
@@ -118,27 +108,27 @@
             <path>
               <item name="datastructures" type="b2602c69:ProjectViewProjectNode" />
               <item name="datastructures" type="462c0819:PsiDirectoryNode" />
-              <item name="week 2" type="462c0819:PsiDirectoryNode" />
+              <item name="week 6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="datastructures" type="b2602c69:ProjectViewProjectNode" />
               <item name="datastructures" type="462c0819:PsiDirectoryNode" />
-              <item name="week 2" type="462c0819:PsiDirectoryNode" />
-              <item name="merging_tables" type="462c0819:PsiDirectoryNode" />
+              <item name="week 6" type="462c0819:PsiDirectoryNode" />
+              <item name="tree_orders" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="datastructures" type="b2602c69:ProjectViewProjectNode" />
               <item name="datastructures" type="462c0819:PsiDirectoryNode" />
-              <item name="week 2" type="462c0819:PsiDirectoryNode" />
-              <item name="merging_tables" type="462c0819:PsiDirectoryNode" />
+              <item name="week 6" type="462c0819:PsiDirectoryNode" />
+              <item name="tree_orders" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,37 +146,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.merging_tables">
-    <configuration name="build_heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.tree-orders">
+    <configuration name="hash_chains" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 2/make_heap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 4/hash_chains" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="datastructures" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week 2/make_heap/build_heap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week 4/hash_chains/hash_chains.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="job_queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hash_substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 2/job_queue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 4/hash_substring" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="datastructures" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week 2/job_queue/job_queue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week 4/hash_substring/hash_substring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,54 +198,54 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="process_packages" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="phone_book" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/network_packet_processing_simulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 4/phone_book" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="datastructures" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network_packet_processing_simulation/process_packages.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week 4/phone_book/phone_book.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="tree-height" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tree-orders" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree_height" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week 6/tree_orders" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="datastructures" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree_height/tree-height.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week 6/tree_orders/tree-orders.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.tree-height" />
-      <item index="1" class="java.lang.String" itemvalue="Python.process_packages" />
-      <item index="2" class="java.lang.String" itemvalue="Python.build_heap" />
-      <item index="3" class="java.lang.String" itemvalue="Python.job_queue" />
-      <item index="4" class="java.lang.String" itemvalue="Python.merging_tables" />
+      <item index="0" class="java.lang.String" itemvalue="Python.merging_tables" />
+      <item index="1" class="java.lang.String" itemvalue="Python.phone_book" />
+      <item index="2" class="java.lang.String" itemvalue="Python.hash_chains" />
+      <item index="3" class="java.lang.String" itemvalue="Python.hash_substring" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tree-orders" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.merging_tables" />
-        <item index="1" class="java.lang.String" itemvalue="Python.job_queue" />
-        <item index="2" class="java.lang.String" itemvalue="Python.build_heap" />
-        <item index="3" class="java.lang.String" itemvalue="Python.process_packages" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tree-height" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tree-orders" />
+        <item index="1" class="java.lang.String" itemvalue="Python.hash_substring" />
+        <item index="2" class="java.lang.String" itemvalue="Python.hash_chains" />
+        <item index="3" class="java.lang.String" itemvalue="Python.phone_book" />
+        <item index="4" class="java.lang.String" itemvalue="Python.merging_tables" />
       </list>
     </recent_temporary>
   </component>
@@ -281,13 +271,13 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32528856" sideWeight="0.51354164" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32528856" sideWeight="0.48645833" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32528856" sideWeight="0.48645833" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979014" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -310,21 +300,11 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/check_brackets_in_code/tests/49" />
-    <entry file="file://$PROJECT_DIR$/check_brackets_in_code/tests/50" />
-    <entry file="file://$PROJECT_DIR$/check_brackets_in_code/tests/49.a" />
-    <entry file="file://$PROJECT_DIR$/check_brackets_in_code/checktest.py" />
-    <entry file="file://$PROJECT_DIR$/check_brackets_in_code/tests/01" />
-    <entry file="file://$PROJECT_DIR$/tree_height/tests/01.a" />
-    <entry file="file://$PROJECT_DIR$/tree_height/tests/01" />
-    <entry file="file://$PROJECT_DIR$/tree_height/tests/02" />
-    <entry file="file://$PROJECT_DIR$/tree_height/tests/03" />
-    <entry file="file://$PROJECT_DIR$/tree_height/tests/24" />
     <entry file="file://$PROJECT_DIR$/tree_height/tests/23" />
     <entry file="file://$PROJECT_DIR$/tree_height/tests/22" />
     <entry file="file://$PROJECT_DIR$/network_packet_processing_simulation/tests/07" />
@@ -384,7 +364,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -392,7 +371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="62" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -400,7 +378,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="822" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="987" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -408,7 +385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-39270">
           <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -416,7 +392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="92820" column="15" lean-forward="false" selection-start-line="92820" selection-start-column="0" selection-end-line="92820" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -424,7 +399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-857">
           <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -432,7 +406,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="44" column="33" lean-forward="false" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -440,7 +413,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 2/merging_tables/merging_tables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="15" lean-forward="false" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -448,14 +427,85 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39657" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 4/phone_book/phone_book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="53" lean-forward="false" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week 2/merging_tables/merging_tables.py">
+    <entry file="file://$PROJECT_DIR$/week 4/hash_chains/tests/06.a">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="46" column="15" lean-forward="false" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+        <state relative-caret-position="-385">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 4/hash_chains/tests/06">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-963">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 4/hash_chains/hash_chains.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="25" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 4/hash_substring/hash_substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 4/hash_substring/tests/06.a">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 4/hash_substring/tests/06">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 6/is_bst/is_bst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 6/tree_orders/tests/21">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 6/tree_orders/tree-orders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
           <folding />
         </state>
       </provider>

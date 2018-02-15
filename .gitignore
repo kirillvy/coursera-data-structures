@@ -1,0 +1,10 @@
+# irrelevant files
+*.java
+*.cpp
+
+# pycharm things
+.idea/
+*.pyc
+
+# unfinished
+week 6/

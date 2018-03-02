@@ -5,3 +5,7 @@
 # pycharm things
 .idea/
 *.pyc
+
+#unfinished
+/week6/set_range_sum
+/week6/tree_orders
